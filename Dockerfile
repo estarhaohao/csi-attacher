@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/sig-storage/csi-attacher:v3.3.0
+FROM registry.cn-hangzhou.aliyuncs.com/haoyustorage/csi-attacher:v3.4.0
 
